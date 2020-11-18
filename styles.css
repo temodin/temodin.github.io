@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./assets/background.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0 !important;
+    font-family: "Inconsolata";
+}
+
+#logo {
+    float: left;
+    position: absolute;
+    height: 3em;
+    padding-left: 10%;
+    padding-top: 5px;
+}
+
+#header{
+    background-color: #333333;
+    padding: 10px 10%;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+#header ul {
+    color:  #ff0099;
+}
+
+#header ul li{
+    display: inline;
+    padding:15px;
+}
+
+#header ul {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+#wiki .wiki-def {
+    margin:20px 0;
+}
+
+a:visited {
+    color: #ff0099;
+}
+
+h1 {
+    font-family: "Brawler";
+    font-size: 4em;
+    padding: 0 10%;
+    margin-top: 100px;
+}
+
+#intro h2{
+    color: #ff0099;
+    font-family: "Brawler";
+    font-size: 3em;
+    padding: 0 10%;
+    margin-top: 30px;
+}
+
+p {
+    padding: 0 10%;
+    margin: 10px 0;
+}
+
+
+h3 {
+    padding: 0 10%;
+    margin: 10px 0;
+    font-size: 2em;
+}
+
+#wiki h2 {
+    font-family: "Brawler";
+    font-size: 3em;
+    margin: 0 auto;
+    margin: 50px;
+}
+
+#intro p {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+.center {
+    text-align: center;
+    margin: 50px;
+}
+
+
+
+
