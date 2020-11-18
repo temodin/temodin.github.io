@@ -48,6 +48,11 @@ body {
     margin:20px 0;
 }
 
+a {
+color: #ff0099;
+text-decoration: none;
+}
+
 a:visited {
     color: #ff0099;
 }
